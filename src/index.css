@@ -1,0 +1,13 @@
+#root {
+  width: 800px;
+  height: 400px;
+  border: 1px solid #e7e7e7;
+  border-radius: 3em;
+  background-color: bisque;
+  margin: 0 auto;
+}
+#root img {
+  width: 300px;
+  height: 300px;
+  transform: translate(100px, 100px);
+}
